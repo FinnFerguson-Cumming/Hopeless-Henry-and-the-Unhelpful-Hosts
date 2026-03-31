@@ -11,3 +11,4 @@ This repository contains the core C# scripts from 'Hopeless Henry and the Unhelp
 ## Built Using
 - Unity
 - C#
+- ink (For Dialogue System)
